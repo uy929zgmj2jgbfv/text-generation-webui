@@ -1,8 +1,10 @@
 # Text generation web UI
 
-A Gradio web UI for Large Language Models.
+A Gradio web UI for Large Language Models, forked from the lovely oobabooga.
 
-Its goal is to become the [AUTOMATIC1111/stable-diffusion-webui](https://github.com/AUTOMATIC1111/stable-diffusion-webui) of text generation.
+Its goal is to become a streamlined deepseek based local openai clone.
+
+
 
 |![Image1](https://github.com/oobabooga/screenshots/raw/main/print_instruct.png) | ![Image2](https://github.com/oobabooga/screenshots/raw/main/print_chat.png) |
 |:---:|:---:|
